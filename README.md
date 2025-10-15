@@ -40,7 +40,7 @@ Participants are provided with time series of various parameter values character
 Each time-series record corresponds to values measured during accumulation of the corresponding sifted key frame. The most important factor for optimal code selection is the QBER estimate for signal states.
 
 The full CSV header is as follows (50 columns total):
-```python block_id,frame_idx,E_mu_Z,E_mu_phys_est,E_mu_X,E_nu1_X,E_nu2_X,E_nu1_Z,E_nu2_Z,N_mu_X,M_mu_XX,M_mu_XZ,M_mu_X,N_mu_Z,M_mu_ZZ,M_mu_Z,N_nu1_X,M_nu1_XX,M_nu1_XZ,M_nu1_X,N_nu1_Z,M_nu1_ZZ,M_nu1_Z,N_nu2_X,M_nu2_XX,M_nu2_XZ,M_nu2_X,N_nu2_Z,M_nu2_ZZ,M_nu2_Z,nTot,bayesImVoltage,opticalPower,polarizerVoltages[0],polarizerVoltages[1],polarizerVoltages[2],polarizerVoltages[3],temp_1,biasVoltage_1,temp_2,biasVoltage_2,synErr,N_EC_rounds,maintenance_flag,estimator_name,f_EC,E_mu_Z_est,R,s,p```
+``` block_id,frame_idx,E_mu_Z,E_mu_phys_est,E_mu_X,E_nu1_X,E_nu2_X,E_nu1_Z,E_nu2_Z,N_mu_X,M_mu_XX,M_mu_XZ,M_mu_X,N_mu_Z,M_mu_ZZ,M_mu_Z,N_nu1_X,M_nu1_XX,M_nu1_XZ,M_nu1_X,N_nu1_Z,M_nu1_ZZ,M_nu1_Z,N_nu2_X,M_nu2_XX,M_nu2_XZ,M_nu2_X,N_nu2_Z,M_nu2_ZZ,M_nu2_Z,nTot,bayesImVoltage,opticalPower,polarizerVoltages[0],polarizerVoltages[1],polarizerVoltages[2],polarizerVoltages[3],temp_1,biasVoltage_1,temp_2,biasVoltage_2,synErr,N_EC_rounds,maintenance_flag,estimator_name,f_EC,E_mu_Z_est,R,s,p```
 
 
 ## 4. Metric
