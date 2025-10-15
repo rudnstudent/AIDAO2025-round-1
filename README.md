@@ -1,6 +1,4 @@
 # AIDAO2025-round-1
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 This repository contains my complete solution for the international Yandex Olympiad "AIDAO2025" in machine learning. The project implements a sophisticated multi-model ensemble approach to solve a challenging time-series forecasting problem in the domain of quantum error correction protocols.
 
 # # Quantum Cryptography LDPC Code Parameter Selection
